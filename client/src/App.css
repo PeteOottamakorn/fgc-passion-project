@@ -1,0 +1,14 @@
+:root {
+  font-family: "Josefin Sans", sans-serif;
+
+  --alabaster: #f1f2eb;
+  --paynes-gray: #577590;
+  --pumpkin: #ff8c42;
+  --auburn: #a22c29;
+  --eerie-black: #242423;
+}
+
+body {
+  color: var(--alabaster);
+  background-color: var(--eerie-black);
+}
